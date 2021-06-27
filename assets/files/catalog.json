@@ -1,0 +1,67 @@
+{
+    "products": [{
+            "id": 1,
+            "name": "iPhone 12 Pro",
+            "desc": "Apple iPhone 12th generation",
+            "price": 999,
+            "color": "#33505a",
+            "image": "https://images.unsplash.com/photo-1617997455403-41f333d44d5b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80"
+        },
+        {
+            "id": 2,
+            "name": "Pixel 5",
+            "desc": "Googel Pixel 5th generation",
+            "price": 699,
+            "color": "#00ac51",
+            "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.droid-life.com%2Fwp-content%2Fuploads%2F2020%2F09%2FGoogle-Pixel-5-Green-2.jpg&f=1&nofb=1"
+        },
+        {
+            "id": 3,
+            "name": "M1 Macbook Air",
+            "desc": "Apple Macbook air with apple silicon",
+            "price": 1099,
+            "color": "#e0bfae",
+            "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.d04o2RSn563QU1Gd6otY3wHaEK%26pid%3DApi&f=1"
+        },
+        {
+            "id": 4,
+            "name": "Playstation 5",
+            "desc": "Sony playstation 5th generation",
+            "price": 500,
+            "color": "#544ee4",
+            "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.XkR9WAUeWxmXqUrPA_1J1QHaEK%26pid%3DApi&f=1"
+        },
+        {
+            "id": 5,
+            "name": "Airpord Pro",
+            "desc": "Apple Airpord 1st generation",
+            "price": 200,
+            "color": "#e3e4e9",
+            "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.aaC1_mFvxfSBBEMDwLck4wHaH_%26pid%3DApi&f=1"
+        },
+        {
+            "id": 6,
+            "name": "iPad Pro",
+            "desc": "Apple iPad Pro 2020 edition",
+            "price": 799,
+            "color": "#f73984",
+            "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.SX4e7plqL5gKdXzquGlK8QHaJ4%26pid%3DApi&f=1"
+        },
+        {
+            "id": 7,
+            "name": "Samsung S21 Ultra ",
+            "desc": "Samsung Galaxy S21 2021 eidtion",
+            "price": 1299,
+            "color": "#1c1c1c",
+            "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.JWsmFGS1XH8tyU-4Gn0rkwHaHa%26pid%3DApi&f=1"
+        },
+        {
+            "id": 8,
+            "name": "Samsung S21",
+            "desc": "Samsung Galaxy S21 2021 eidtion",
+            "price": 899,
+            "color": "#7c95eb",
+            "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.w3JFH32fGNXYP0ahPsJyxwHaHa%26pid%3DApi&f=1"
+        }
+    ]
+}
